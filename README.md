@@ -21,8 +21,3 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg" alt="IONIC" width="30" height="30"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/mocha/mocha-plain.svg" alt="mocha" width="30" height="30"/></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whis-dev&show_icons=true&theme=tokyonight" alt="whis-dev" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/@whis_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@whis_dev" height="20" width="20" /></a>
-<a href="mailto:whisdevj@gmail.com target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="whis email" height="20" width="20"/></a>
-</p>
