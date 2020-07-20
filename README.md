@@ -5,6 +5,22 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+⌚︎ Timezone: Asia/Seoul
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+🐱‍💻 Projects: 
+
+
+💻 Operating Systems: 
+
+
+```
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
