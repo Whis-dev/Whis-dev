@@ -4,12 +4,6 @@
 <img src="https://github.com/Whis-dev/Whis-dev/workflows/whis-dev%20Readme/badge.svg" alt="whis-dev "/>
 </p>
 
-- 👨‍💻 All of my projects are available at [github.com/Whis-dev](github.com/Whis-dev)
-
-- 📝 I regulary write articles on [velog.io/@whis](velog.io/@whis)
-
-- 📫 How to reach me **whisdevj@gmail.com**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -30,4 +24,5 @@
 
 <p align="center">
 <a href="https://twitter.com/@whis_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@whis_dev" height="20" width="20" /></a>
+<a href="mailto:whisdevj@gmail.com target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="whis email" height="20" width="20"/></a>
 </p>
