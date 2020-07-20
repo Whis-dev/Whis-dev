@@ -5,7 +5,7 @@ name: whis-dev Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 06 * * *'
+    - cron: '0 15 * * *'
 
 jobs:
   update-readme:
