@@ -1,0 +1,17 @@
+# This is a basic workflow to help you get started with Actions
+
+name: whis-dev Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 06 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: whis-dev/whis-dev@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
