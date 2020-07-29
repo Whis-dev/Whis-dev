@@ -3,6 +3,7 @@
 name: whis-dev Readme
 
 on:
+  workflow_dispatch:
   schedule:
     # Runs at 12am IST
     - cron: '0 15 * * *'
