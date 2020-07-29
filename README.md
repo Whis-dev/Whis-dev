@@ -4,21 +4,6 @@
 <img src="https://github.com/Whis-dev/Whis-dev/workflows/whis-dev%20Readme/badge.svg" alt="whis-dev "/>
 </p>
 
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    62 commits     ████████░░░░░░░░░░░░░░░░░   33.51% 
-🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   29.73% 
-🌃 Evening    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-🌙 Night      63 commits     ████████░░░░░░░░░░░░░░░░░   34.05%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="30" height"30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
