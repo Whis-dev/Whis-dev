@@ -17,4 +17,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="30" height="30"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whis-dev&show_icons=true&theme=tokyonight" alt="whis-dev" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whis-dev" style="vertical-align:middle" alt="whis-dev-language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whis-dev&show_icons=true&theme=tokyonight" style="vertical-align:middle" alt="whis-dev-stat" /> 
+</p>
