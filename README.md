@@ -5,6 +5,6 @@
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whis-dev&theme=tokyonight" alt="whis-dev-language" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whis-dev&theme=tokyonight&hide=jupyter%20notebook" alt="whis-dev-language" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=whis-dev&show_icons=true&include_all_commits=true&theme=tokyonight" alt="whis-dev-stat" /> 
 </p>
