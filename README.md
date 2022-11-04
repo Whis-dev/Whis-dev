@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm whis</h1>
-<h3 align="center">Those who like soccer, boxing, and programming ⚽</h3>
+<h3 align="center">Those who like soccer and programming ⚽</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whis-dev" alt="whis-dev" />
 </p>
 
