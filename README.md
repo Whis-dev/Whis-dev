@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm whis</h1>
 <h3 align="center">Those who like soccer, boxing, and programming ⚽</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whis-dev" alt="whis-dev" />
-<img src="https://github.com/Whis-dev/Whis-dev/workflows/whis-dev%20Readme/badge.svg" alt="whis-dev "/>
 </p>
 
 <p align="center"> 
